@@ -1,0 +1,325 @@
+{
+    "boxer_info": [
+        {
+            "video_time_state": "No state info",
+            "video_time_info": "0:01:00",
+            "color": "red",
+            "record": "0-0-0",
+            "age": "21",
+            "height": "158",
+            "weight": "52",
+            "name": "PHET SIAM S.KANJANA",
+            "country": "THAILAND"
+        },
+        {
+            "video_time_state": "No state info",
+            "video_time_info": "0:01:00",
+            "color": "blue",
+            "record": "0-0-0",
+            "age": "28",
+            "height": "156",
+            "weight": "52",
+            "name": "AKSHATA KHADTARE",
+            "country": "INDIA"
+        }
+    ],
+    "time_info": [
+        {
+            "video_time": "0:01:19",
+            "round_num": 1,
+            "time": "4:58"
+        },
+        {
+            "video_time": "0:01:20",
+            "round_num": 1,
+            "time": "4:57"
+        },
+        {
+            "video_time": "0:01:20",
+            "round_num": 1,
+            "time": "4:57"
+        },
+        {
+            "video_time": "0:01:21",
+            "boxer1": "PHET SIAM S.KANJANA",
+            "color1": "red",
+            "round_num": 1,
+            "time": "4:56",
+            "color2": "blue",
+            "boxer2": "AKSHATA KHADTARE"
+        },
+        {
+            "video_time": "0:01:22",
+            "boxer1": "PHET SIAM S.KANJANA",
+            "color1": "red",
+            "round_num": 1,
+            "time": "4:55",
+            "color2": "blue",
+            "boxer2": "AKSHATA KHADTARE"
+        },
+        {
+            "video_time": "0:01:23",
+            "boxer1": "PHET SIAM S.KANJANA",
+            "color1": "red",
+            "round_num": 1,
+            "time": "4:54",
+            "color2": "blue",
+            "boxer2": "AKSHATA KHADTARE"
+        },
+        {
+            "video_time": "0:01:24",
+            "boxer1": "PHET SIAM S.KANJANA",
+            "color1": "red",
+            "round_num": 1,
+            "time": "4:53",
+            "color2": "blue",
+            "boxer2": "AKSHATA KHADTARE"
+        },
+        {
+            "video_time": "0:01:25",
+            "boxer1": "PHET SIAM S.KANJANA",
+            "color1": "red",
+            "round_num": 1,
+            "time": "4:52",
+            "color2": "blue",
+            "boxer2": "AKSHATA KHADTARE"
+        },
+        {
+            "video_time": "0:01:26",
+            "boxer1": "PHET SIAM S.KANJANA",
+            "color1": "red",
+            "round_num": 1,
+            "time": "4:51",
+            "color2": "blue",
+            "boxer2": "AKSHATA KHADTARE"
+        },
+        {
+            "video_time": "0:01:27",
+            "boxer1": "PHET SIAM S.KANJANA",
+            "color1": "red",
+            "round_num": 1,
+            "time": "4:50",
+            "color2": "blue",
+            "boxer2": "AKSHATA KHADTARE"
+        },
+        {
+            "video_time": "0:01:28",
+            "boxer1": "PHET SIAM S.KANJANA",
+            "color1": "red",
+            "round_num": 1,
+            "time": "4:49",
+            "color2": "blue",
+            "boxer2": "AKSHATA KHADTARE"
+        },
+        {
+            "video_time": "0:01:29",
+            "boxer1": "PHET SIAM S.KANJANA",
+            "color1": "red",
+            "round_num": 1,
+            "time": "4:48",
+            "color2": "blue",
+            "boxer2": "AKSHATA KHADTARE"
+        },
+        {
+            "video_time": "0:01:30",
+            "boxer1": "PHET SIAM S.KANJANA",
+            "color1": "red",
+            "round_num": 1,
+            "time": "4:47",
+            "color2": "blue",
+            "boxer2": "AKSHATA KHADTARE"
+        },
+        {
+            "video_time": "0:01:32",
+            "boxer1": "PHET SIAM S.KANJANA",
+            "color1": "red",
+            "round_num": 1,
+            "time": "4:46",
+            "color2": "blue",
+            "boxer2": "AKSHATA KHADTARE"
+        },
+        {
+            "video_time": "0:01:33",
+            "boxer1": "PHET SIAM S.KANJANA",
+            "color1": "red",
+            "round_num": 1,
+            "time": "4:45",
+            "color2": "blue",
+            "boxer2": "AKSHATA KHADTARE"
+        },
+        {
+            "video_time": "0:01:35",
+            "boxer1": "PHET SIAM S.KANJANA",
+            "color1": "red",
+            "round_num": 1,
+            "time": "4:43",
+            "color2": "blue",
+            "boxer2": "AKSHATA KHADTARE"
+        },
+        {
+            "video_time": "0:01:36",
+            "boxer1": "PHET SIAM S.KANJANA",
+            "color1": "red",
+            "round_num": 1,
+            "time": "4:42",
+            "color2": "blue",
+            "boxer2": "AKSHATA KHADTARE"
+        },
+        {
+            "video_time": "0:01:37",
+            "boxer1": "PHET SIAM S.KANJANA",
+            "color1": "red",
+            "round_num": 1,
+            "time": "4:41",
+            "color2": "blue",
+            "boxer2": "AKSHATA KHADTARE"
+        },
+        {
+            "video_time": "0:01:39",
+            "boxer1": "PHET SIAM S.KANJANA",
+            "color1": "red",
+            "round_num": 1,
+            "time": "4:39",
+            "color2": "blue",
+            "boxer2": "AKSHATA KHADTARE"
+        },
+        {
+            "video_time": "0:01:40",
+            "boxer1": "PHET SIAM S.KANJANA",
+            "color1": "red",
+            "round_num": 1,
+            "time": "4:38",
+            "color2": "blue",
+            "boxer2": "AKSHATA KHADTARE"
+        },
+        {
+            "video_time": "0:01:41",
+            "boxer1": "PHET SIAM S.KANJANA",
+            "color1": "red",
+            "round_num": 1,
+            "time": "4:37",
+            "color2": "blue",
+            "boxer2": "AKSHATA KHADTARE"
+        },
+        {
+            "video_time": "0:01:42",
+            "boxer1": "PHET SIAM S.KANJANA",
+            "color1": "red",
+            "round_num": 1,
+            "time": "4:36",
+            "color2": "blue",
+            "boxer2": "AKSHATA KHADTARE"
+        },
+        {
+            "video_time": "0:01:43",
+            "boxer1": "PHET SIAM S.KANJANA",
+            "color1": "red",
+            "round_num": 1,
+            "time": "4:35",
+            "color2": "blue",
+            "boxer2": "AKSHATA KHADTARE"
+        },
+        {
+            "video_time": "0:01:44",
+            "boxer1": "PHET SIAM S.KANJANA",
+            "color1": "red",
+            "round_num": 1,
+            "time": "4:34",
+            "color2": "blue",
+            "boxer2": "AKSHATA KHADTARE"
+        },
+        {
+            "video_time": "0:01:45",
+            "boxer1": "PHET SIAM S.KANJANA",
+            "color1": "red",
+            "round_num": 1,
+            "time": "4:32",
+            "color2": "blue",
+            "boxer2": "AKSHATA KHADTARE"
+        },
+        {
+            "video_time": "0:01:46",
+            "boxer1": "PHET SIAM S.KANJANA",
+            "color1": "red",
+            "round_num": 1,
+            "time": "4:31",
+            "color2": "blue",
+            "boxer2": "AKSHATA KHADTARE"
+        },
+        {
+            "video_time": "0:01:47",
+            "boxer1": "PHET SIAM S.KANJANA",
+            "color1": "red",
+            "round_num": 1,
+            "time": "4:30",
+            "color2": "blue",
+            "boxer2": "AKSHATA KHADTARE"
+        },
+        {
+            "video_time": "0:01:48",
+            "boxer1": "PHET SIAM S.KANJANA",
+            "color1": "red",
+            "round_num": 1,
+            "time": "4:29",
+            "color2": "blue",
+            "boxer2": "AKSHATA KHADTARE"
+        },
+        {
+            "video_time": "0:01:49",
+            "boxer1": "PHET SIAM S.KANJANA",
+            "color1": "red",
+            "round_num": 1,
+            "time": "4:28",
+            "color2": "blue",
+            "boxer2": "AKSHATA KHADTARE"
+        },
+        {
+            "video_time": "0:01:50",
+            "boxer1": "PHET SIAM S.KANJANA",
+            "color1": "red",
+            "round_num": 1,
+            "time": "4:27",
+            "color2": "blue",
+            "boxer2": "AKSHATA KHADTARE"
+        },
+        {
+            "video_time": "0:01:51",
+            "boxer1": "PHET SIAM S.KANJANA",
+            "color1": "red",
+            "round_num": 1,
+            "time": "4:26",
+            "color2": "blue",
+            "boxer2": "AKSHATA KHADTARE"
+        },
+        {
+            "video_time": "0:01:52",
+            "boxer1": "PHET SIAM S.KANJANA",
+            "color1": "red",
+            "round_num": 1,
+            "time": "4:25",
+            "color2": "blue",
+            "boxer2": "AKSHATA KHADTARE"
+        },
+        {
+            "video_time": "0:01:53",
+            "round_num": 1,
+            "time": "4:24"
+        }
+    ],
+    "rounds_info": [
+        {
+            "round_num": "1",
+            "video_time_start": "0:01:19",
+            "video_time_end": "0:01:53",
+            "round_duration": "0:00:34"
+        }
+    ],
+    "winner_info": [
+        {
+            "video_time": "0:02:34",
+            "name": "AKSHATA KHADTARE",
+            "round_num": 1,
+            "round_time": "4:24"
+        }
+    ]
+}
