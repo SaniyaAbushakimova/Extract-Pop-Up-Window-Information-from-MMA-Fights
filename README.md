@@ -1,5 +1,5 @@
 Project completed on January 29, 2023.
-
+ 
 ## Project description
 - Given a video of an MMA fight, extract information from all pop-up windows that appear anywhere in the video. Save result to `file_res.json` file;
 - Image to text recognition was done with [easyocr](https://github.com/JaidedAI/EasyOCR);
